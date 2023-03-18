@@ -2,7 +2,7 @@
 <h1 align="center">Challenge Alura Conversor</h1>
 <!-- Insignias -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAFdk9N6-sw/q_XAAFCZFQk6vla6WkM7GQ/view?utm_content=DAFdk9N6-sw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" />
+  <img src="https://github.com/orbitser/ChallengeAluraConversor/blob/main/imagenes/Orbit%20Converter%20Alura%20Challenge%20Conversor.png?raw=true" />
 </p>
 <!-- Descripción del Proyecto -->
 Descripción del Proyecto
